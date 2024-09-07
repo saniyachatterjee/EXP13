@@ -53,6 +53,8 @@ int main()
 ```
 
 O/P:
+![Screenshot 2024-09-07 235733](https://github.com/user-attachments/assets/330cc9ec-7a7a-4fb8-b704-fa076de887b6)
+
 
 2.
 ```
@@ -88,5 +90,8 @@ fetch f2;
 }
 ```
 O/P:
+
+![Screenshot 2024-09-08 001039](https://github.com/user-attachments/assets/29c074d2-430f-4fd8-aa24-b29826c55cf8)
+
 
 # Conclusion
